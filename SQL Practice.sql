@@ -1,4 +1,3 @@
-/* Name:Desiree Noela Dias Started:10/08/2017 Finished:11/08/2017 */
 /* There is a Foreign Key Missing from the Product Table, write a script to add the required FK */
 
 ALTER TABLE Product
